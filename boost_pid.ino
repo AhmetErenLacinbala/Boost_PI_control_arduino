@@ -39,5 +39,4 @@ void loop() {
   analogWrite(PWM, Output);
   Serial.println(Input);
   Serial.println(Vo);
-  //delay(500);
 }
